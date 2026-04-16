@@ -76,13 +76,3 @@ Ou faça o upload do `.ipynb` e do `.json` diretamente no **Google Colab**.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
-
-## 📄 Dicionário de Dados
-
-Consulte o arquivo [`TelecomX_dicionario.md`](./TelecomX_dicionario.md) para a descrição completa de cada coluna do dataset.
-
----
-
-## 👤 Autor
-
-Desenvolvido como projeto de conclusão de curso — Análise de Dados.
